@@ -1,0 +1,4 @@
+<Response>
+<Say voice="alice">Thanks for trying our documentation. Enjoy!</Say>
+<Play>https://github.com/firemex/Recordings/blob/main/Recording.mp3</Play>
+</Response>
